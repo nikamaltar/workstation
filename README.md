@@ -1,3 +1,4 @@
 # workstation
 
-![Software-lab-mockup (1)](https://user-images.githubusercontent.com/49248645/207853110-6888916e-d7d0-4c79-9680-70cc75a0b800.png)
+![workstation-mockup](https://user-images.githubusercontent.com/49248645/207853719-ae014a41-5b3d-4a70-a839-ab5f6c2a8fa7.png)
+
